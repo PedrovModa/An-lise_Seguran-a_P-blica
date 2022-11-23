@@ -9,13 +9,13 @@ Além disso, vamos analisar o trabalho da polícia frente as ocorrências em cad
 
 Perguntas que tentaremos responder com a análise:
 
-Quais são os municípios com as maiores ocorrências dentro do Estado de São Paulo?
-Qual o ano com o maior número de ocorrências? Será que existe alguma relação disso?
-Quais são os três municípios mais perigosos segundo os dados desse dataset?
-Houve alguma variação na taxa de perigo de cada município?
-Qual foi o ano que mais se teve armas apreendidas pela polícia?
-Qual foi o ano que mais se houve prisões?
-Qual foi o ano que mais se teve veículos recuperados?
+* Quais são os municípios com as maiores ocorrências dentro do Estado de São Paulo?
+* Qual o ano com o maior número de ocorrências? Será que existe alguma relação disso?
+* Quais são os três municípios mais perigosos segundo os dados desse dataset?
+* Houve alguma variação na taxa de perigo de cada município?
+* Qual foi o ano que mais se teve armas apreendidas pela polícia?
+* Qual foi o ano que mais se houve prisões?
+* Qual foi o ano que mais se teve veículos recuperados?
 
 
 
